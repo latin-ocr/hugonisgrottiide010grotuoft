@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hugonisgrottiide010grotuoft_0724.png"; bbox 0 0 2380 3917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2342 116 2356 781">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2342 116 2356 781">
+     <span class='ocr_line' id='line_1_1' title="bbox 2342 116 2356 781; baseline 95 -665"><span class='ocrx_word' id='word_1_1' title='bbox 2342 116 2353 294; x_wconf 62' lang='grc' dir='ltr'>,ξΙΙῖ-ἷοι</span> <span class='ocrx_word' id='word_1_2' title='bbox 2344 310 2354 379; x_wconf 51' lang='lat'>1501!</span> <span class='ocrx_word' id='word_1_3' title='bbox 2345 399 2356 527; x_wconf 52' lang='lat' dir='ltr'>:svrplfln&#39;</span> <span class='ocrx_word' id='word_1_4' title='bbox 2346 548 2352 576; x_wconf 62' lang='grc' dir='ltr'>ἱ..</span> <span class='ocrx_word' id='word_1_5' title='bbox 2346 588 2355 747; x_wconf 58' lang='lat'>«20:³51».-</span> <span class='ocrx_word' id='word_1_6' title='bbox 2352 761 2353 764; x_wconf 68' lang='grc'>,</span> <span class='ocrx_word' id='word_1_7' title='bbox 2349 777 2353 781; x_wconf 49' lang='lat'><strong><em>⁴</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2380 3917">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2380 3917">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2380 3917"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2380 3917; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
